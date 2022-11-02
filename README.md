@@ -1,2 +1,3 @@
-# CSPB-4122
-Information Visualization 4122
+# English Proficiency Correlation on Gross National Income Per Capita
+
+For this project, I use data visualization techniques to provide supporting evidence that high proficiency in the English language plays a role in a (non-native English speaking) country’s wealth, specifically in their gross national income per capita (GNI PPP), which economists use as an indicator of country’s social, economic, and environmental health. The findings presented in this paper can be used by governments, social scientists, and departments of education worldwide when planning a country’s well-being in the long term through accessible, quality programs of English as a second language.
